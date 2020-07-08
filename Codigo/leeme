@@ -1,0 +1,9 @@
+Copiar un  archivo resul.json a la carpeta donde esta el programa uno.py
+ejecutar el programa uno.py
+esperar a que termine y guardar el archivo salida.txt  que se genero en la carpeta del programa
+
+
+******Repetir este proceso para cada chat**************
+
+
+al finalizar unir todas las salidas txt y subir al repositorio
