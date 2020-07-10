@@ -23,7 +23,7 @@ with open("result.json") as file:
             if not re.sub(r'\w+:\/{2}[\d\w-]+(\.[\d\w-]+)*(?:(?:\/[^\s/]*))*', '', a["text"]).__eq__("") and str(len(a["text"]) > 1):
                 aux = str(a["text"]).replace("$", "").replace("#", "").replace(
                     "%", "").replace("€", "").replace("\n", "").replace(".", "").replace(",", "").replace(":", "").replace(";", "").replace("?", "").replace("¿", "").replace("1", "").replace("2", "").replace("3", "").replace("4", "").replace("5", "").replace("6", "").replace("7", "").replace("8", "").replace("9", "").replace("0", "").replace("!", "").replace("*", "").replace("/", "").replace("@", "").replace("=", "").replace("+", "").replace("\"", "").replace("\'", "").replace("(", "").replace(")", "").lower().strip().lstrip().rstrip()
-                if len(aux) > 3:
+                if len(aux) > 2:
                     informacion += aux.strip().lstrip().rstrip() + "\n"
 
         # eliminamos los emoticones
