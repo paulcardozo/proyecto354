@@ -30,10 +30,6 @@ with open("result.json") as file:
 
         eliminar_emo = re.compile("["
                                   u"\U00000091-\U0001FFFF"  # emoticones
-                                  u"\U0001F000-\U0001FFFF"  # emoticones
-                                  u"\U0001F300-\U0001F5FF"  # simbolos
-                                  u"\U0001F680-\U0001F6FF"  # mapas de simbolos
-                                  u"\U0001F1E0-\U0001FFFF"  # banderas
                                   "]+", flags=re.UNICODE)
         informacion = eliminar_emo.sub(r'', informacion)
 
