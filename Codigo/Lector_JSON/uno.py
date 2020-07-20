@@ -1,14 +1,12 @@
 import json as j
 import re as re
+from numba import jit
+import numpy as np
 
-with open("result.json") as file:
-    archivo = j.load(file)
-
-    informacion = ""
-    print("procesando .....")
+@jit
+def clean(archivo, sumador=0):
+    informacion=""
     cont = len(archivo["messages"])
-    sumador = 0
-    print("0  de ", cont)
     for a in archivo["messages"]:
         sumador += 1
         print(sumador, " de ", cont)
@@ -36,6 +34,14 @@ with open("result.json") as file:
                                   u"\U0001F1E0-\U0001FFFF"  # banderas
                                   "]+", flags=re.UNICODE)
         informacion = eliminar_emo.sub(r'', informacion)
+    return informacion
+
+with open("result.json", encoding="utf8") as file:
+    archivo = j.load(file)
+    print("procesando .....")
+    print("0  de ", len(archivo["messages"]))
+    informacion = clean(archivo)
+    
 
     # se guarda en un nuevo archivo el texto en su primera etapa de preproceso
     with open("salida.txt", "w") as file:
