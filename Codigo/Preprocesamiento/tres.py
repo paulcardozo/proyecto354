@@ -16,8 +16,8 @@ nlp=spacy.load('es_core_news_sm')
 
 def limpiar(trabajo):
     
-    for token in trabajo:
-        aux = nlp(str(token))
+    
+        aux = nlp(str(trabajo))
         for token in aux:
             print(token, token.lemma, token.lemma_)
             cambiado.append(token.lemma_)
