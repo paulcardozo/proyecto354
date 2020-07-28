@@ -1,0 +1,221 @@
+pienso tomar el examen de ccent 
+yo ya certique la semana pasada ustedes
+como van
+que bien
+yo pienso hacer ccna r&s
+yo lo hice en dos partes
+icnd y
+por ahi voy
+estoy estudiando solo
+en  o  meses pienso presentarme claro si me siento preparado
+y que tal
+yo apenas quiero empezar a estudiar ccna
+un placer soy nuevo en el mundo cisco estudiando ccna actualmente
+tengo dudas con el comando reload
+que dudas tienes
+ya te digo que no tengo los comandos ac
+en principio el comando reload we utiliza para recargar en ios del mdem
+del switch
+del switch o del router
+ok excelente amigo
+gracias
+a la orden
+mayormente este comando se usa cuando borra las configuraciones del router luego borrarla se carga el router con todas las configuraciones de inicio
+no entend
+lo ltimo
+cmo est comando lo que haces es que reinicia el ios de router es ms utilizado para que no tengas que apagar y encender el router solo reinicia con este comando y ya
+okay
+i understood
+
+y estos dos show running-configoshow startup-confi
+no entiendo muy bien esa parte
+eso es para guardar las configuraciones correcto
+running-config es la configuracin que ests haciendo en el momento y startup-config es archivo que tiene la configuracin con la que inicia el router
+si ests haciendo un configuracin de una direccin ip a un router en ese momento puede ver la configuracin que has hecho hasta el momento con el comando show running-config pero si reinicias el router la configuracin no se guardar entonces tienes que guardar la configuracin en el startup-config para que cargue en el router
+tienen algn ejemplo del examen ccna
+hola  alguien tiene alguna guia para el exmen del ccna
+que tipo de gua
+una donde pueda ver los distintos temarios posibles de exmen
+pues no s decirte yo lo hice hace casi dos aos y entr basicamente todo el temario hacen ms hincapi en unos temas que en otros pero depende del examen que te toque
+y cul es el temario
+yo soy de cuba  pero estoy buscando las formas posibles para certificarme
+me gradu dw ingeniero en telecomunicaciones hace  aos y trabajo en etecsa sa
+mi experiencia en la configuracin de equipos cisco se basa fundamentalmente en el cisci packet tracer
+si he tenido un poco algo mas en otras tecnologas como huawei
+buenos das donde puedo encontrar la informacin para estudiar por mi cuenta ccna en espaol
+en esa web puedes
+buenas
+alguien tiene experiencia con antenas aironet
+buenas
+alguna empresa quiere que le ayude   ofreciendo mis certificaciones
+alguien ha creado acl
+buenas alguien controla packet tracer
+muchas gracias daniel
+de nada es un placer ayudar
+saludos para mario ramos de lima
+para su apoyo de configu
+hola buenas tardes tengo una duda sobre unos cisco catalyst x  se pueden apilar por rj
+tienes que cambiar el coste de las interfaces
+en el enlace s poner un coste menor al de s
+se hace con el comando ip ospf costa x
+x es el coste
+cost
+y primero tendras que entrar a la interfaz para luego poner ese comando
+para saber su oponion sobre ospf estoy realizando una practica sobre las lsa estoy utilizando el comando en el r show ip ospf database  como se muestra topologia
+buenos dias el asunto de la topologia es si estoy bien en los concepto de los tipos de lsa  estoy desde el r haciendo un show ip ospf database para ver los tipos de lsa y describo un breve concepto o descripcion como lo estoy interpretando espero sus comentarios saludos
+soy nuevo y me gustaria aprender espero de su aapoyo saludos atodos
+que me pueden recomendar para iniciar desde cero
+hola como estas   arranca con algn curso de udemy
+fjate los de germn hernandez
+hay un grupo que tiene el curso para descargar gratis
+ahora lo paso
+udemy - cisco ccna - en espaol
+fjate con ese
+ok muchas gracias
+hola
+si me permiten comentar
+este curso no creo que debe ser
+el actual examen ccna es el -
+si no tienes problemas con el ingls deberas ver el curso de david bombal en udemy
+excelente
+ok si perfecto el que ustedes me recomienden que sea mejor para aprender
+para m es el mejor
+ok me lo puedes compartir
+david bombal es un excelente instructor
+y adems de eso deberas tener los libros de gua oficial
+los puedes encontrar en amazon y buscar por ccna -
+son dos tomos
+ok donde los puedo descargar
+si los consigo gracias
+con eso debe bastar
+ok gracias amigo
+no hay problemas
+un placer ayudar
+hola estoy estudiando el ccna - con los manuales oficiales y me estoy dando cuenta que no hay muchos laboratorios  alguien sabe cmo conseguirlos sin tener que dejarme medio sueldo gracias a todos
+buen da en udemy ahy cursos de solo laboratorios ahy gratuitos y de paga no estn caros
+cisco ccna - en espaol certificate yapeso  gb |  horas  clases | idioma espaol | subtitulos ingles | instructor arturo gonzalez garcia | no contiene archivos base | fecha de la ltima actualizacin
+esta la versin anterior  pero fjate puede servir
+perfecto muchas gracias
+una pregunta dedicndole unas tres horas al da ms o menos cunto se tardara en subir al examen  no tengo ninguna prisa simplemente es por empezar a marcarme tiempos
+desde mi opinion y mi experiencia  dedicando  hora por da  en  meses estaras preparado para el examen
+con  hs  acortarias los tiempo es muy importante la prctica  yo utilizo gns
+si tienes la posibilidad de adquirir algn equipo hazlo
+ok gracias que me recomiendas de equipo fsico
+estoy con el packet tracer es muy diferente del gns
+quiero decir cul sera mejor
+perdona por el spam
+use el packet tracer es muy bueno  lo que me gusta de gns es que tiene equipos de otras marcas
+no se de que pas sos  yo soy de argentina y consegu equipos catalyst usado a precio econonico
+barcelona espaa
+fjate en ebay  amazon ahi
+hay ofertas
+tengo apalabrado un  por  euros para empezar
+pueden comentat ospf de las lsa
+me pueden regalar pagina para registrarme al curso de ccna
+hola a tods espero que estn muy bienquisiera saber si alguien se esta preparando para la nueva certificacin de ccnp que me pueda recomendar algn libro o pagina para poder ir estudiandoque estn todo muy bien junto a sus familias un abrazooo
+no pero me puedes a poyar de como inscribirme para la primera certificaciom ccna
+si te refieres para hacer el examen
+se compra en una pgina que se llama pearson vue o algo as
+o te refieres a algn curso
+no a la pagina para poder aprender bien y poder certificarme
+busca en google cisco networking academy
+creo que ah hay cursos
+tambin te aconsejo que consigas los libros que sirven como gua oficial de wendell odom
+todo eso es de pago
+para m lo mejor y ms econmico sera en udemy y los libros
+no se me ocurre nada ms
+muchas gracias por la informacin me certifique en ccna  y ahora quiero preparar el ccnp
+cul ccnp entreprise
+que ahora cambiaron las certificaciones
+encor
+es la de entrada y despues la de especialidad en algun area
+seguridad
+r&s
+etc
+ya veo
+se dan solo dos pruebas ahors para ser ccnp
+la verdad que del ccnp directamente solo te puedo decir que revises cbtnuggets
+los revisar
+gracias
+apoyo tengo instalado el eve-ng pero cuando ejecuto para capture de las interfaces solo me muestea las ethe  pero no muestran las seriales a q se debera este detalle y cuando entre a consola puedo conf las int seriales pero no puedo capture cuando coloco el curso en donde esta el router y doy boton derecho me muestra la opcion capture y las interfaces q tengo en el equipo no seriales
+ah explican todo muy bien y lo mas importante estn las imgenes de lo sistemas
+xito
+ok muchas gracias amigos pues vamos a darle con todo
+haz estudiado o sabes mas menos cuando quieres dar tu examen de ccna
+pues voy poco a poco apenas estoy estudiando autodidactamente
+en el caso que ya hayas estudiado o sepas cuando rendir la prueba la prueba se compra en la plataforma pearson vue cisco ah encontraras fechas disponibles para rendir en algn lugar de tu ciudad y antes de ayer me llego un mail avisando que se podrn dar onlineas que averigua eso y haste mientras una cuenta en pearson vue y si tienes dudas me avisas un abrazoo
+pero en cuanto tiempo dura el curso
+dar el curso tendras que ir a alguna academia que sea partner de cisco en algunas el intensivo dura un mes pero son bastante caras
+ok muchas gracias por el por el apoyo
+ah en o que necsites o tengas dudas de materia etc nos avisas
+una abrazooo
+si gracias
+la cuenta de pearsonvue nadama esta en ingles
+si y las pruebas de certificacin tb son en ingles
+hola quisiera haceros una pregunta estoy liado con el ccna el examen - y como supongo que sabris han quitado bastante cosa respecto al anterior examen  tengo experiencia en redes pequeas y sin profundizar mucho lans de pocos pcs ahi va la pregunta vale la pena leer los captulos del examen anterior que no aparecen en el nuevo examen mi intencin es examinarme pero entiendo que hay tecnologas que no entran en este examen que estn todava implementadas es la vida real que me aconsejis muchas gracias a todos
+yo creo que si vale la pena
+al final es conocimiento que posees y eso no pesa
+en el libro de la gua oficial -
+tiene unos apndices que abarcan contenido del exmen anterior
+eso te da una pista de que si es importante
+miren esto de verdad que est muy bien
+con el permiso del administrador de este grupo me gustara compartir con ustedes este grupo
+hola buenos dias a todos una pregunta packetracert  tiene un problema al momento de realizar la instalacin en equipos con arquitectura de  bits al momento de terminar la instalacin da un error de dll pregunto alguien ha podido solventar ese inconveniente yo lo tengo actualmente y no he podido solventarlo si alguien me puede ayudar con eso por favor gracias
+yo uso el packet tracer para  bits y no tiene ningn problema
+intenta usar ese
+exacto para  bits no tiene problemas el problema est es con los equipos que tienes arquitectura de bits
+y con equipo de bajos recursos imposible usar arquitectura de bits no es recomendable a eso me refiero
+entiendo
+por eso preguntaba si habia alguien que le habia dado ese error al momento de la instalacin y si lo habia solventado
+lo que se me ocurre es que escribas a soporte en cisco me imagino que deben tener algn correo o algo as
+y di lo que pasa
+ok puede ser por la misma pagina de cisco
+supongo que si
+intenta en cisco networking academy
+que es de dnde se descarga packet tracer
+excelente sugerencia ya lo voy hacer en este momento
+gracias por la idea
+de nada
+para eso estamos
+hola chicos
+una duda
+para crear una ip de mgm
+usis una vlan dedicada o la loopack
+para ctalys
+una vlan
+hola buenas tardesquera consultar si alguien tiene esta imagen de cisco c-adventerprisekmz-simage que tengo unos ejercicios en gns con ese ios de router y no puedo encontrar la imagenen caso que alguien la tenga o me diga donde encontrarlamuchas graacias y espero que estn muy bien junto a sus familias
+yo tengo la -m te sirve podras compartir esos ejercicios please
+voy a probar
+si claro son dos
+son solo conf
+no sirvio
+si lo encuentro comparto tdo sino no funcionara
+holacual seris la mejor prctica o algo aceptable en configuracin port-security
+para que sea todo lo ms automtico posible en caso de incidencia y recuperacin
+sticky y se resetee por tiempo inactividad
+que recomiendan
+bueno que se resetee por tiempo de inactividad es muy recomendable
+lo de sticky depende de tus necesidades en particular
+es un entorno que los usuarios son voltiles
+pero si sera una buena idea para que sea automtico
+cada da hay una persona diferente
+entonces sticky es la opcin
+alguna recomendacin ms
+gracias daniel
+un placer ayudar
+tambin tienes que tener en cuenta
+que con sticky aprende la direccin mac dinmicamente
+y como dices que cada da hay una nueva persona
+tal vez la memoria cam puede verse afectada con tantas direcciones mac
+si pero si me pongo reset por inactividad no se borra cadadigamos si pongo  horas
+algo as
+esto aliviara la cam no
+porque las borra
+soy nuevo en cisco
+acabo de sacar el ccna 
+y soy muy jr entonces quizs hago preguntas tontas
+jajajaja
+no te preocupes
+aqu estamos para aprender
+muchas gracias
+de nada
